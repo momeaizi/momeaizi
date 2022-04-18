@@ -6,10 +6,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momeaizi&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momeaizi&layout=compact&theme=radical)](https://github.com/Abdeljalil-Bouchfar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momeaizi&layout=compact&theme=radical)](https://github.com/momeaizi)
 
-<!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=abouchfa)](https://github.com/mohouyizme/1337-readme)
- -->
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=momeaizi)](https://github.com/mohouyizme/1337-readme)
+
 
 **Languages and Tools:**  
 
