@@ -1,4 +1,4 @@
-## Hi there, I'm Mohamed Taha Meaizi - aka [momeaizi] 👋 
+## Hi there, I'm Mohamed Taha Meaizi
 
 **About me**
 
