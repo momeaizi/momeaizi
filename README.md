@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed Taha Meaizi and I'm a software engineer, from ....</h2>
+<h2 align="left">Hi 👋! My name is Mohamed Taha Meaizi and I'm a software engineer</h2>
 
 ###
 
