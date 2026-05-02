@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Taha MEAIZI  
 
 ## 🚀 About Me
-Full-stack developer with a passion for building scalable applications and exploring AI/ML technologies. I enjoy tackling complex problems and creating innovative solutions across the entire tech stack.
+Software engineer with a passion for building scalable applications and exploring AI/ML technologies. I enjoy tackling complex problems and creating innovative solutions across the entire tech stack.
 
 ## 💻 Tech Stack
 
