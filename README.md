@@ -31,9 +31,6 @@ Software engineer with a passion for building scalable applications and explorin
 
 ## 🔥 Featured Projects
 
-### [agency-ai](https://github.com/momeaizi/agency-ai)
-AI-powered agency platform built with **TypeScript** - exploring the intersection of AI and modern web development.
-
 ### [MentorConnect](https://github.com/momeaizi/MentorConnect)
 A platform that matches mentees with mentors based on shared interests and expertise. Built with **TypeScript**.
 
